@@ -1,0 +1,14 @@
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\bin\Debug\net8.0\GetDNSAddressInfo.exe
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\bin\Debug\net8.0\GetDNSAddressInfo.deps.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\bin\Debug\net8.0\GetDNSAddressInfo.runtimeconfig.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\bin\Debug\net8.0\GetDNSAddressInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\bin\Debug\net8.0\GetDNSAddressInfo.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\GetDNSAddressInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\GetDNSAddressInfo.AssemblyInfoInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\GetDNSAddressInfo.AssemblyInfo.cs
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\GetDNSAddressInfo.csproj.CoreCompileInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\GetDNSAddressInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\refint\GetDNSAddressInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\GetDNSAddressInfo.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\GetDNSAddressInfo.genruntimeconfig.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSAddressInfo\obj\Debug\net8.0\ref\GetDNSAddressInfo.dll

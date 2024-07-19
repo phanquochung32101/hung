@@ -1,0 +1,14 @@
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\bin\Debug\net8.0\GetResolveInfo.exe
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\bin\Debug\net8.0\GetResolveInfo.deps.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\bin\Debug\net8.0\GetResolveInfo.runtimeconfig.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\bin\Debug\net8.0\GetResolveInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\bin\Debug\net8.0\GetResolveInfo.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\GetResolveInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\GetResolveInfo.AssemblyInfoInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\GetResolveInfo.AssemblyInfo.cs
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\GetResolveInfo.csproj.CoreCompileInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\GetResolveInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\refint\GetResolveInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\GetResolveInfo.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\GetResolveInfo.genruntimeconfig.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetResolveInfo\obj\Debug\net8.0\ref\GetResolveInfo.dll

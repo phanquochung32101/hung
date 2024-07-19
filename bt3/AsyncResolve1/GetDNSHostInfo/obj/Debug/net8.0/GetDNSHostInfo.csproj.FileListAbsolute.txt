@@ -1,0 +1,14 @@
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\bin\Debug\net8.0\GetDNSHostInfo.exe
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\bin\Debug\net8.0\GetDNSHostInfo.deps.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\bin\Debug\net8.0\GetDNSHostInfo.runtimeconfig.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\bin\Debug\net8.0\GetDNSHostInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\bin\Debug\net8.0\GetDNSHostInfo.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\GetDNSHostInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\GetDNSHostInfo.AssemblyInfoInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\GetDNSHostInfo.AssemblyInfo.cs
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\GetDNSHostInfo.csproj.CoreCompileInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\GetDNSHostInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\refint\GetDNSHostInfo.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\GetDNSHostInfo.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\GetDNSHostInfo.genruntimeconfig.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\GetDNSHostInfo\obj\Debug\net8.0\ref\GetDNSHostInfo.dll

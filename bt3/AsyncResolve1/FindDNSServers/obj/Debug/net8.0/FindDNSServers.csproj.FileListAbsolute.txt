@@ -1,0 +1,14 @@
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\bin\Debug\net8.0\FindDNSServers.exe
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\bin\Debug\net8.0\FindDNSServers.deps.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\bin\Debug\net8.0\FindDNSServers.runtimeconfig.json
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\bin\Debug\net8.0\FindDNSServers.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\bin\Debug\net8.0\FindDNSServers.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\FindDNSServers.GeneratedMSBuildEditorConfig.editorconfig
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\FindDNSServers.AssemblyInfoInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\FindDNSServers.AssemblyInfo.cs
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\FindDNSServers.csproj.CoreCompileInputs.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\FindDNSServers.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\refint\FindDNSServers.dll
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\FindDNSServers.pdb
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\FindDNSServers.genruntimeconfig.cache
+C:\baitap\baihoc\mang\bt3\AsyncResolve1\FindDNSServers\obj\Debug\net8.0\ref\FindDNSServers.dll
